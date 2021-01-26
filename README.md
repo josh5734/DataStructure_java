@@ -3,6 +3,8 @@
 
 1. Project Assignment0(pa0)
 - 가나다
+* 가나다
++ 
 2. Project Assignment1(pa1)
 3. Project Assignment2(pa2)
 4. Project Assignment3(pa3)
